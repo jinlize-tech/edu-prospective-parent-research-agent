@@ -1,0 +1,16 @@
+{
+  "product_id": "JLZ-EDU-AG-031",
+  "repository_name": "edu-prospective-parent-research-agent",
+  "tested_source_commit": "bda605828e5475a1672754d8810322bdc0d0a765",
+  "tested_source_tree_sha": "7853379e8dae8859fd0be84bc05004781df42389",
+  "product_version": "1.0.0",
+  "package_sha256": "4B1D6CB05B65418F32A4F29581B7BE9359953DA796280612F68A277BBC0DA8F0",
+  "runtime_test_status": "LOCAL_TEST_PASS",
+  "runtime_test_count": 62,
+  "schema_validation_status": "SCHEMA_INSTANCE_VALIDATION_PASS",
+  "schema_validation_case_count": 16,
+  "scenario_count": 14,
+  "scenario_execution_status": "MAPPED_NOT_INDIVIDUALLY_EXECUTED",
+  "model_runtime_status": "MODEL_RUNTIME_NOT_VERIFIED",
+  "workbuddy_validation": "NOT_EXECUTED"
+}
