@@ -1,0 +1,17 @@
+{
+  "product_id": "JLZ-EDU-AG-031",
+  "repository_name": "edu-prospective-parent-research-agent",
+  "version": "1.0.1",
+  "tested_source_commit": "51c3de6d4a24b008705e3b4341acd077591e5d38",
+  "tested_source_tree_sha": "e128c76c23dac9bcb6a79e5b0534dc224b0b61cd",
+  "package_path": "dist/edu-prospective-parent-research-agent-v1.0.1.zip",
+  "package_sha256": "A6A7369F828D8DABE7F092D4446C42CB658571C500514BC78EC6F9597EB13256",
+  "runtime_test_status": "LOCAL_TEST_PASS",
+  "runtime_test_count": 62,
+  "schema_validation_status": "SCHEMA_INSTANCE_VALIDATION_PASS",
+  "schema_validation_case_count": 16,
+  "model_runtime_status": "MODEL_RUNTIME_NOT_VERIFIED",
+  "workbuddy_validation": "NOT_EXECUTED",
+  "readme_repair": "PASS",
+  "plugin_author_name": "Education AI Tools Maintainers"
+}
