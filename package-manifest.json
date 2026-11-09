@@ -2,10 +2,10 @@
   "product_id": "JLZ-EDU-AG-031",
   "repository_name": "edu-prospective-parent-research-agent",
   "product_type": "Agent",
-  "version": "1.0.0",
-  "package_path": "dist/edu-prospective-parent-research-agent-v1.0.0.zip",
-  "sha256": "4B1D6CB05B65418F32A4F29581B7BE9359953DA796280612F68A277BBC0DA8F0",
-  "bytes": 47417,
+  "version": "1.0.1",
+  "package_path": "dist/edu-prospective-parent-research-agent-v1.0.1.zip",
+  "sha256": "A6A7369F828D8DABE7F092D4446C42CB658571C500514BC78EC6F9597EB13256",
+  "bytes": 48554,
   "entries": [
     "edu-prospective-parent-research-agent/README.md",
     "edu-prospective-parent-research-agent/PRODUCT_SPEC.md",
@@ -38,5 +38,9 @@
   "license": "Apache-2.0",
   "runtime_status": "MODEL_RUNTIME_NOT_VERIFIED",
   "workbuddy_validation": "NOT_EXECUTED",
-  "built_at": "2026-11-09T00:00:00+08:00"
+  "built_at": "2026-11-09T12:01:54.024178+00:00",
+  "previous_version": "1.0.0",
+  "previous_package_path": "dist/edu-prospective-parent-research-agent-v1.0.0.zip",
+  "previous_package_sha256": "4B1D6CB05B65418F32A4F29581B7BE9359953DA796280612F68A277BBC0DA8F0",
+  "patch_reason": "README_USAGE_INSTALLATION_AND_PLATFORM_METADATA_FINALIZATION"
 }
