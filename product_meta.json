@@ -1,0 +1,33 @@
+{
+  "number": 31,
+  "product_id": "JLZ-EDU-AG-031",
+  "candidate_id": "CAND-044",
+  "chinese_name": "潜在家长访谈研究",
+  "english_name": "Prospective Parent Interview Research",
+  "repository_name": "edu-prospective-parent-research-agent",
+  "repository_url": "https://github.com/jinlize-tech/edu-prospective-parent-research-agent",
+  "product_type": "Agent",
+  "category": "14 客户洞察与渠道运营中心",
+  "batch": 3,
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "core_outputs": [
+    "访谈方案",
+    "访谈指南",
+    "主题报告"
+  ],
+  "optional_outputs": [
+    "编码表",
+    "购买阻力",
+    "信息需求",
+    "反证",
+    "下一步研究"
+  ],
+  "high_risk": false,
+  "deterministic": false,
+  "scenario_count": 14,
+  "package_path": "dist/edu-prospective-parent-research-agent-v1.0.0.zip",
+  "runtime_status": "MODEL_RUNTIME_NOT_VERIFIED",
+  "workbuddy_validation": "NOT_EXECUTED",
+  "status": "LOCAL_DEVELOPMENT_COMPLETE_PENDING_REMOTE_VERIFICATION"
+}

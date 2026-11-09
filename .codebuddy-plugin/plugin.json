@@ -1,0 +1,63 @@
+{
+  "name": "edu-prospective-parent-research-agent",
+  "version": "1.0.0",
+  "description": "A multi-step education agent for Prospective Parent Interview Research.",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "270911570+yangsongbaofu-dot@users.noreply.github.com"
+  },
+  "agents": [
+    "./agents/edu-prospective-parent-research-agent.md"
+  ],
+  "expertType": "agent",
+  "agentName": "edu-prospective-parent-research-agent",
+  "displayName": {
+    "en": "Prospective Parent Interview Research",
+    "zh": "潜在家长访谈研究"
+  },
+  "profession": {
+    "en": "Prospective Parent Interview Research",
+    "zh": "潜在家长访谈研究"
+  },
+  "displayDescription": {
+    "en": "Multi-step professional workflow for Prospective Parent Interview Research.",
+    "zh": "设计访谈指南、执行多轮结构化归纳，区分家长原话、研究者推断和待验证假设，形成购买阻力与信息需求。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "15-Education",
+  "defaultInitPrompt": {
+    "en": "Help me complete Prospective Parent Interview Research.",
+    "zh": "请帮我完成一次潜在家长访谈研究"
+  },
+  "plugin": "edu-prospective-parent-research-agent",
+  "tags": [
+    {
+      "en": "Education",
+      "zh": "教培机构"
+    },
+    {
+      "en": "Professional Workflow",
+      "zh": "专业工作流"
+    },
+    {
+      "en": "Prospective Parent Interview Research",
+      "zh": "潜在家长访谈研究"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Help me complete Prospective Parent Interview Research.",
+      "zh": "请帮我完成一次潜在家长访谈研究"
+    },
+    {
+      "en": "Start with scope and evidence inventory.",
+      "zh": "请先确认范围并盘点资料"
+    },
+    {
+      "en": "Generate the final deliverables with risks and open questions.",
+      "zh": "请生成最终成果，并列出风险与待确认事项"
+    }
+  ],
+  "homepage": "https://github.com/jinlize-tech/edu-prospective-parent-research-agent",
+  "license": "Apache-2.0"
+}

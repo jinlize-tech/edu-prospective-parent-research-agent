@@ -1,0 +1,24 @@
+{
+  "contract_version": "1.2.0",
+  "data_status": "confirmed",
+  "contains_sensitive_data": false,
+  "requested_output_language": "zh-CN",
+  "research_questions": [
+    {}
+  ],
+  "target_parent_segments": [
+    {}
+  ],
+  "region": "广州市",
+  "sample_criteria": "样本标准已核对（脱敏示例）",
+  "interview_notes": [
+    {}
+  ],
+  "competitor_context": [
+    {}
+  ],
+  "institution_courses": [
+    {}
+  ],
+  "resume_mode": "new"
+}
